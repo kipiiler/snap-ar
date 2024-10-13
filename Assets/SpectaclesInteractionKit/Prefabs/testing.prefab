@@ -1,0 +1,21 @@
+- !<ObjectPrefab/e420c695-1beb-4a3a-8fdb-5d6460b72984>
+  PackagePath: ""
+  objects:
+    - !<own> 0e468225-8736-4ffd-b24a-89923c565139
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/0e468225-8736-4ffd-b24a-89923c565139>
+  PrefabRemaps:
+    []
+  Name: Object Prefab
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
